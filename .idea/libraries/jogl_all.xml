@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jogl-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-noawt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-noawt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-noawt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-noawt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jogl/gluegen-rt-natives-macosx-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
